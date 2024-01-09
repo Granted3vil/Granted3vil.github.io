@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Monkey Mart</title>
+    <link rel="icon" type="image/png" href="meta/apple-touch-icon.png">
+</head>
+
+<body>
+    <h1>Welcome to Monkey Mart!</h1>
+    <!-- Add more content as needed -->
+
+    <!-- Example link to go back to the main page -->
+    <p><a href="../index.html">Back to Game Collection</a></p>
+</body>
+
+</html>
