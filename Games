@@ -4,16 +4,31 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Monkey Mart</title>
-    <link rel="icon" type="image/png" href="meta/apple-touch-icon.png">
+    <title>Your Game Collection</title>
 </head>
 
 <body>
-    <h1>Welcome to Monkey Mart!</h1>
-    <!-- Add more content as needed -->
+    <h1>Your Game Collection</h1>
 
-    <!-- Example link to go back to the main page -->
-    <p><a href="../index.html">Back to Game Collection</a></p>
+    <div class="game-container">
+        <!-- Link to the monkeymart game -->
+        <div class="game-card">
+            <h2>Monkey Mart</h2>
+            <a href="mart/Monkey%20Marr.html">
+                <img src="mart/meta/apple-touch-icon.png" alt="Monkey Mart">
+            </a>
+        </div>
+
+        <!-- Add more game cards for other games following the same structure -->
+        <!-- Example:
+        <div class="game-card">
+            <h2>Another Game</h2>
+            <a href="another-game-directory/index.html">
+                <img src="another-game-directory/img/game-icon.png" alt="Another Game">
+            </a>
+        </div>
+        -->
+    </div>
 </body>
 
 </html>
